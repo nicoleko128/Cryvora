@@ -136,4 +136,4 @@ No build step, no package manager, no server needed.
 
 ## Author
 
-Ko Shan Si — Individual Assignment
+Ko Shan Si
