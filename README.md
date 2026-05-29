@@ -139,4 +139,4 @@ No build step, no package manager, no server needed.
 Ko Shan Si
 
 
-## Price Prediction are for educational purposes only
+## !!Price Prediction are for educational purposes only!!
